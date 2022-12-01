@@ -1,12 +1,12 @@
 const clickBTN = document.getElementById("clickBTN");
 const colorName = document.querySelector(".colortype");
 const hexColors = [
-  "##f56f50",
-  "##ff439f",
+  "#f56f50",
+  "#ff439f",
   "#3f3138",
   "#dac3a9",
   "#475e6b",
-  "##893f04",
+  "#893f04",
   "#7b876d",
   "#01786f",
   "#2E4053",
